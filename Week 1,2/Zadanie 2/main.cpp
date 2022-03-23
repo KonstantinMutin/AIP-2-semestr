@@ -1,3 +1,6 @@
+//2. Пользователь вводит параметры фигуры. Найти периметр и площадь фигур:
+//g. Конус (площадь).
+
 #include <iostream>
 #define _USE_MATH_DEFINES
 #include <math.h>
